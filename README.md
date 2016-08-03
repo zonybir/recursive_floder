@@ -36,9 +36,6 @@ you will get 360.js file
 >}
 
 
-***
-
-***
 
 linux:  node fs /var/www >>var.www.js
 
@@ -67,3 +64,6 @@ you will get var.www.js
 >				.
 >	}
 >}
+
+by:[zonybir](http://www.zonybir.com/"点击查看zonybir主页")
+by:[zonybir]: http://www.zonybir.com/ "点击查看zonybir主页"
