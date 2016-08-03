@@ -2,11 +2,11 @@
 
 you can use input stream redirect to get a json than  your directory structure
 
-use like :  node fs <'you directory path'> >json.js
+use like :  node fs <'you directory path' >>json.js
 
 eg :
 
-windows ：  node fs F://360 >360.js
+windows ：  node fs F://360 >>360.js
 
 you will get 360.js file
 
@@ -29,7 +29,7 @@ you will get 360.js file
 }
 
 
-linux:  node fs /var/www >var.www.js
+linux:  node fs /var/www >>var.www.js
 
 you will get var.www.js
 {
