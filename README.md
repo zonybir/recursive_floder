@@ -65,6 +65,6 @@ you will get var.www.js
 >	}
 >}
 
-by:[zonybir](http://www.zonybir.com/"点击查看zonybir主页")
+by:[zonybir](http://www.zonybir.com/ "点击查看zonybir主页")
 
 by:[zonybir]: http://www.zonybir.com/ "点击查看zonybir主页"
