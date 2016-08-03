@@ -42,21 +42,26 @@ you will get 360.js file
 linux:  node fs /var/www >>var.www.js
 
 you will get var.www.js
-{
-	'www':{
-		'html':{
-			'zonybir.js':'zonybir.js',
-				.
-				.
-				.
-			'zony':{
-				'zony':'zony',
-				'floruit.jsx':'floruit.jsx'
-			}
-		},
-		'component.jsx':'conponent.jsx',
-				.
-				.
-				.
-	}
-}
+
+>{
+>
+>	'www':{
+>
+>		'html':{
+>
+>			'zonybir.js':'zonybir.js',
+>
+>				.
+>				.
+>				.
+>			'zony':{
+>				'zony':'zony',
+>				'floruit.jsx':'floruit.jsx'
+>			}
+>		},
+>		'component.jsx':'conponent.jsx',
+>				.
+>				.
+>				.
+>	}
+>}
