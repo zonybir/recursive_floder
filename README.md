@@ -12,29 +12,20 @@ you will get 360.js file
 
 >
 >{ '360Safe':
->
 >   {	'360AppLoader.exe': '360AppLoader.exe',
-
 >   			.
 >   			.
 >   			.
->
 >   		ipc: { '360AntiHacker.dll': '360AntiHacker.dll',
->
 >      			.
 >      			.
 >      			.
->
 >      	},
->
 >      	'wimgapi.dll': 'wimgapi.dll',
->
 >      			.
 >      			.
 >      			.
->
 >        'WinDlp.dll': 'WinDlp.dll'
->
 >    }
 >
 >}
@@ -44,7 +35,7 @@ linux:  node fs /var/www >>var.www.js
 
 you will get var.www.js
 
->
+
 >{
 >
 >	'www':{
