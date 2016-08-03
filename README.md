@@ -10,6 +10,7 @@ windows ：  node fs F://360 >>360.js
 
 you will get 360.js file
 
+>
 >{ '360Safe':
 >
 >   {	'360AppLoader.exe': '360AppLoader.exe',
@@ -43,6 +44,7 @@ linux:  node fs /var/www >>var.www.js
 
 you will get var.www.js
 
+>
 >{
 >
 >	'www':{
